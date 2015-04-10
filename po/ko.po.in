@@ -31,44 +31,44 @@ msgid "zeroth"
 msgstr ""
 
 msgid "first"
-msgstr ""
+msgstr "첫번째"
 
 msgid "second"
-msgstr ""
+msgstr "두번째"
 
 msgid "third"
-msgstr ""
+msgstr "세번째"
 
 msgid "fourth"
-msgstr ""
+msgstr "네번째"
 
 msgid "fifth"
-msgstr ""
+msgstr "다섯번째"
 
 msgid "sixth"
-msgstr ""
+msgstr "여섯번째"
 
 #. TRANSLATORS: the following counts refer to roundabout exits
 msgid "zeroth exit"
 msgstr ""
 
 msgid "first exit"
-msgstr ""
+msgstr "첫번째 출구"
 
 msgid "second exit"
-msgstr ""
+msgstr "두번째 출구"
 
 msgid "third exit"
-msgstr ""
+msgstr "세번째 출구"
 
 msgid "fourth exit"
-msgstr ""
+msgstr "네번째 출구"
 
 msgid "fifth exit"
-msgstr ""
+msgstr "다섯번째 출구"
 
 msgid "sixth exit"
-msgstr ""
+msgstr "여섯번째 출구"
 
 #, c-format
 msgid "%d m"
@@ -143,7 +143,7 @@ msgstr ""
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name
 #, c-format
 msgid "%sinto the street %s%s%s"
-msgstr ""
+msgstr "%s %s%s%s 방향으로"
 
 #. TRANSLATORS: Arguments: 1: Prefix (Space if required) 2: Street Name 3: Separator (Space if required), 4: Systematic Street Name. Male form. The stuff after | doesn't have to be included
 #, c-format
@@ -163,7 +163,7 @@ msgstr ""
 #. TRANSLATORS: gives the name of the next road to turn into (into the E17)
 #, c-format
 msgid "%sinto the %s"
-msgstr ""
+msgstr "%s %s 방향으로"
 
 #. TRANSLATORS: right, as in 'Turn right'
 msgid "right"
@@ -175,42 +175,42 @@ msgstr "좌"
 
 #. TRANSLATORS: Don't forget the ending space
 msgid "easily "
-msgstr ""
+msgstr "약간"
 
 #. TRANSLATORS: Don't forget the ending space
 msgid "strongly "
-msgstr ""
+msgstr "크게"
 
 #. TRANSLATORS: Don't forget the ending space
 msgid "really strongly "
-msgstr ""
+msgstr "아주 크게"
 
 #. TRANSLATORS: Don't forget the ending space
 msgid "unknown "
 msgstr ""
 
 msgid "When possible, please turn around"
-msgstr ""
+msgstr "가능하면 유턴하세요"
 
 msgid "Enter the roundabout soon"
-msgstr ""
+msgstr "로타리에 곧 진입합니다"
 
 #. TRANSLATORS: %s is the distance to the roundabout
 #, c-format
 msgid "Enter the roundabout %s"
-msgstr ""
+msgstr "%s 로타리에 진입합니다"
 
 #, c-format
 msgid "then leave the roundabout at the %s"
-msgstr ""
+msgstr "이제 %s 에서 로타리를 나가세요"
 
 #, c-format
 msgid "Leave the roundabout at the %s"
-msgstr ""
+msgstr "%s 에서 로타리를 나가세요"
 
 #, c-format
 msgid "Follow the road for the next %s"
-msgstr ""
+msgstr "다음 %s 까지 직진하세요"
 
 msgid "soon"
 msgstr "곧"
@@ -218,18 +218,18 @@ msgstr "곧"
 #. TRANSLATORS: First argument is the how manieth street to take, second the direction
 #, c-format
 msgid "Take the %1$s road to the %2$s"
-msgstr ""
+msgstr "%1$s 번째 출구에서 %2$s 로 나가세요"
 
 #, c-format
 msgid "after %i roads"
-msgstr ""
+msgstr "%i 도로 이후에"
 
 msgid "now"
 msgstr "지금"
 
 #, c-format
 msgid "then take the %1$s road to the %2$s"
-msgstr ""
+msgstr "이제 %1$s 번째 출구에서 %2$s 로 나가세요"
 
 msgid "error"
 msgstr ""
@@ -237,19 +237,19 @@ msgstr ""
 #. TRANSLATORS: The first argument is strength, the second direction, the third distance and the fourth destination Example: 'Turn 'slightly' 'left' in '100 m' 'onto baker street'
 #, c-format
 msgid "Turn %1$s%2$s %3$s%4$s"
-msgstr ""
+msgstr "%3$s%4$s %1$s%2$s 회전 하세요"
 
 #. TRANSLATORS: First argument is strength, second direction, third how many roads to skip, fourth destination
 #, c-format
 msgid "then turn %1$s%2$s %3$s%4$s"
-msgstr ""
+msgstr "이제 %3$s%4$s %1$s%2$s 회전 하세요"
 
 #, c-format
 msgid "You have reached your destination %s"
-msgstr "목적지 %s에 도착하였습니다"
+msgstr "%s 목적지에 도착합니다"
 
 msgid "then you have reached your destination."
-msgstr ""
+msgstr "목적지에 도착하였습니다."
 
 #. Android resource: @strings/position_popup_title
 msgid "Position"
